@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-ci-cd-app",
+  "version": "1.0.0",
+  "description": "Simple Node CI/CD testing app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tomas Baltrunas",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
