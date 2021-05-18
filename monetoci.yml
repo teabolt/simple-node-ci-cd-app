@@ -1,0 +1,8 @@
+config:
+  image: node
+
+before_install:
+  - npm ci
+
+install:
+  - npm run test
