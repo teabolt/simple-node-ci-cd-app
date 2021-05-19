@@ -6,3 +6,4 @@ before_install:
   
 install:
   - npm run test
+  - echo "hello there"
